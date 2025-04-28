@@ -1,0 +1,6 @@
+BOT_TOKEN=7654853075:AAHTCa_xax0k7UEc-kIKx1V8Lc8DeWRSxXc
+DB_NAME=AssociationMiniApp
+DB_USER=postgres
+DB_PASSWORD=csgolox13
+DB_HOST=localhost
+WEBAPP_URL=https://1bbd-147-30-46-82.ngrok-free.app
